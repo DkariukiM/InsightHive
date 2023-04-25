@@ -1,0 +1,13 @@
+CHALLANGE - FINISH THE INSIGHT HIVE IN 24 HRS
+skills learnt while doing insight hive:
+- build rest apis in laravel
+-how to handle the authentication part
+-create single page application with routing and state management in react
+-create multiple layouts in your react applications
+-how to create scalable file structures 
+-with laravel: --how to build controllers , request classes , how to interact with modals
+-how to deploy project on a custom domain
+-how to set up a provate virtual server 
+-how to install apache, mysql, php , how to configure virtual hosts
+-and many more
+-I'm hyped, lets do this.
