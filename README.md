@@ -1,2 +1,2 @@
 # InsightHive
-Survey web ap developed in laravel+ vue
+Survey web app developed in laravel+ vue
