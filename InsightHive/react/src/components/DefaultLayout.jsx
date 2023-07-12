@@ -22,7 +22,7 @@ function classNames(...classes) {
 }
 
 export default function DefaultLayout() {
-  const state = userStateContext();
+  const {currentUser} = userStateContext();
 
   const logout = (ev) => {
     ev.preventDefault();
